@@ -16,9 +16,7 @@ Thanks for checking out our Project.
     -   [Links](#https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
     -   [#HTML, #CSS AND #JAVASCRIPT](#HTML, #CSS AND #JAVASCRIPT)
     -   [Learned How To Make API Calls]()
--   [Author](#author)
--   [Acknowledgments](#acknowledgments)
-
+-   [Author](TEAM-7)
 
 
 IP ADRESS TRACKER WEBSITE
@@ -86,6 +84,3 @@ Team members:
 
 
 
-## Acknowledgments
-
-Your acknowledgements here.
